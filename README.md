@@ -22,7 +22,7 @@ The MP Statement Writer is an AI-powered application designed to help Members of
 ### Setup
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/mp-statement-writer.git
+git clone https://github.com/Seebrasse345/mp-statement-writer.git
 cd mp-statement-writer
 ```
 
